@@ -1,0 +1,3 @@
+[submodule "genesis"]
+	path = genesis
+	url = https://github.com/helios138/ras-genesis-config
