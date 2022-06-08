@@ -162,7 +162,7 @@ services:
       - "--account.pass=/datadir/password.txt"
       - "--rpcapi=ws://rpc:8546"
       - "--noauth=true"
-      - "--faucet.name=BAS"
+      - "--faucet.name=RAS"
       - "--faucet.amount=10"
       - "--faucet.tiers=5"
     ports:
